@@ -6,7 +6,7 @@ Un système embarqué de reconnaissance automatique de cartes Pokémon en temps 
 
 ---
 
-## Objectif du Projet
+## Objectif du Projet 
 
 Ce projet en collaboration avec Tiago Guéhéneux vise à construire un système embarqué, autonome et transportable, capable d'identifier automatiquement des cartes Pokémon à partir d'images capturées en temps réel par une webcam. Le système fournit pour chaque carte des informations clés comme le nom, la rareté et la valeur estimée, tout en respectant les contraintes de performance et de robustesse face aux conditions réelles d'utilisation (brocantes, collections privées, etc.).
 
